@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DivisorCounter": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
